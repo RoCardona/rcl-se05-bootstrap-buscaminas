@@ -4,10 +4,10 @@ Este es otro proyecto de ejercicios del Bootcamp GeeksHubs Fronted and Angular q
 
 ### Ejercicios 🤓
 
-El proyecto consiste en hacer una réplica del juego 4 en raya con Bootstrap y JavaScript.
+El proyecto consiste en hacer una réplica del juego Buscaminas con Bootstrap y JavaScript.
 
 
-https://rocardona.github.io/rcl-se05-bootstrap-4-en-raya/
+https://rocardona.github.io/rcl-se05-bootstrap-buscaminas/
 
 
 ### Construido con 🛠️
